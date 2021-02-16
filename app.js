@@ -104,9 +104,9 @@ function newEmployee() {
             }))
         );
       } else {
-        const newEmployee = new Employee(res.name, res.id, res.email);
+        const newEmployee = new Employee(res.name, res.id, res.email, res.role);
         team.push(newEmployee);
-        console.log(newEmployee.getRole());
+        console.log(team);
         register();
       }
     });
