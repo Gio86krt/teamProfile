@@ -53,4 +53,4 @@ Or check my [GitHub](https://github.com/Gio86krt)
 
 [Page-Link](https://gio86krt.github.io/teamProfile/)
 
-[WalkThrough Video](https://drive.google.com/file/d/1gtahzjM7U6LqhYDOcYMmfql9At1TChxi/view)
+[WalkThrough Video](video/teamProfieWalkThrough.webm)
